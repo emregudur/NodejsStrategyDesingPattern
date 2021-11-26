@@ -1,10 +1,10 @@
 FROM node:14-slim
-WORKDIR /opt/blog
+WORKDIR /opt/web
 
-COPY . .
+COPY ./package.json ./package.json
+COPY ./build ./build
 
 RUN yarn install --frozen-lockfile
-RUN yarn build
 
 ENV NODE_ENV production
 
