@@ -1,0 +1,46 @@
+version: "3.4"
+
+services:
+    mongodb:
+        container_name: mongodb
+        image: mongo
+        restart: on-failure
+        ports: 
+            - 27017:27017
+        # volumes:
+        #  - /mongodata:/data/db
+        networks:
+            - bridgenetwork
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: 'root'
+            MONGO_INITDB_ROOT_PASSWORD: '123456789'
+            MONGO_INITDB_DATABASE: 'store'
+    api:
+        build: ./api
+        container_name: api
+        ports: 
+            - 3000:3010
+        restart: on-failure
+        depends_on:
+            - mongodb
+        networks:
+            - bridgenetwork
+        environment:
+            MONGO_USERNAME: 'root'
+            MONGO_PASSWORD: '123456789'
+            MONGO_DBNAME: 'store'
+            MONGO_PORT: '27017'
+            MONGO_HOST: 'mongodb'
+    web:
+        build: ./web
+        container_name: web
+        ports: 
+            - 80:3000
+        networks:
+            - bridgenetwork
+# volumes: 
+#     mongodata:
+        
+networks:
+  bridgenetwork:
+    driver: bridge
