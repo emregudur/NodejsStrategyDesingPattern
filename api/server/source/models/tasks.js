@@ -1,6 +1,6 @@
 import mongoose, { Schema } from 'mongoose'
 
-const UserModel = new Schema({
+const TasksModel = new Schema({
   taskId: {
     type: String,
     unique: true,
@@ -16,4 +16,4 @@ const UserModel = new Schema({
   },
 })
 
-export default mongoose.model('tasks', UserModel)
+export default mongoose.model('tasks', TasksModel)

@@ -3,7 +3,9 @@
 ## Installation
 
 ```shell script
-https://github.com/emregudur/NodejsStrategyDesingPattern.git
+git clone https://github.com/emregudur/NodejsStrategyDesingPattern.git
+
+cd ./NodejsStrategyDesingPattern
 
 sh ./run
 ```
