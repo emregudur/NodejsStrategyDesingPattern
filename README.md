@@ -7,7 +7,7 @@ git clone https://github.com/emregudur/NodejsStrategyDesingPattern.git
 
 cd ./NodejsStrategyDesingPattern
 
-sh ./run
+sh ./run.sh
 ```
 
 ## Fetch Tasks and Save With Strategy Design Pattern
