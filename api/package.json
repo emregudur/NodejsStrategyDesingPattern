@@ -1,5 +1,5 @@
 {
-  "name": "nodejsstrategydesingpattern",
+  "name": "nodejsstrategydesignpattern",
   "version": "1.0.0",
   "private": true,
   "index": "./server/bin/www",

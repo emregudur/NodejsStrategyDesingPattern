@@ -1,0 +1,1378 @@
+{
+  "data": [
+    {
+      "name": "Developer 1",
+      "level": 1,
+      "tasks": [
+        {
+          "taskId": "Business Task 66",
+          "duration": 3,
+          "level": 1,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 62",
+          "duration": 6,
+          "level": 1,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 62",
+          "duration": 4,
+          "level": 1,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 53",
+          "duration": 3,
+          "level": 1,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 51",
+          "duration": 2,
+          "level": 1,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 51",
+          "duration": 9,
+          "level": 1,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 48",
+          "duration": 3,
+          "level": 1,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 47",
+          "duration": 6,
+          "level": 1,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 47",
+          "duration": 6,
+          "level": 1,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 46",
+          "duration": 3,
+          "level": 1,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 46",
+          "duration": 6,
+          "level": 1,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 43",
+          "duration": 3,
+          "level": 1,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 43",
+          "duration": 6,
+          "level": 1,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 41",
+          "duration": 3,
+          "level": 1,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 41",
+          "duration": 2,
+          "level": 1,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 40",
+          "duration": 6,
+          "level": 1,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 38",
+          "duration": 1,
+          "level": 1,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 38",
+          "duration": 8,
+          "level": 1,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 35",
+          "duration": 1,
+          "level": 1,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 35",
+          "duration": 8,
+          "level": 1,
+          "day": 9
+        },
+        {
+          "taskId": "Business Task 31",
+          "duration": 1,
+          "level": 1,
+          "day": 9
+        },
+        {
+          "taskId": "Business Task 31",
+          "duration": 6,
+          "level": 1,
+          "day": 10
+        },
+        {
+          "taskId": "Business Task 28",
+          "duration": 3,
+          "level": 1,
+          "day": 10
+        },
+        {
+          "taskId": "Business Task 28",
+          "duration": 4,
+          "level": 1,
+          "day": 11
+        },
+        {
+          "taskId": "Business Task 18",
+          "duration": 5,
+          "level": 1,
+          "day": 11
+        },
+        {
+          "taskId": "Business Task 18",
+          "duration": 2,
+          "level": 1,
+          "day": 12
+        },
+        {
+          "taskId": "Business Task 13",
+          "duration": 3,
+          "level": 1,
+          "day": 12
+        },
+        {
+          "taskId": "Business Task 9",
+          "duration": 4,
+          "level": 1,
+          "day": 12
+        },
+        {
+          "taskId": "Business Task 2",
+          "duration": 6,
+          "level": 1,
+          "day": 13
+        },
+        {
+          "taskId": "Business Task 0",
+          "duration": 3,
+          "level": 1,
+          "day": 13
+        },
+        {
+          "taskId": "Business Task 0",
+          "duration": 4,
+          "level": 1,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 62",
+          "duration": 5,
+          "level": 1,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 62",
+          "duration": 1,
+          "level": 1,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 61",
+          "duration": 3,
+          "level": 1,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 58",
+          "duration": 5,
+          "level": 1,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 58",
+          "duration": 2,
+          "level": 1,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 51",
+          "duration": 7,
+          "level": 1,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 51",
+          "duration": 3,
+          "level": 1,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 50",
+          "duration": 4,
+          "level": 1,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 49",
+          "duration": 2,
+          "level": 1,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 49",
+          "duration": 5,
+          "level": 1,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 48",
+          "duration": 4,
+          "level": 1,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 48",
+          "duration": 8,
+          "level": 1,
+          "day": 19
+        },
+        {
+          "taskId": "IT Task 36",
+          "duration": 1,
+          "level": 1,
+          "day": 19
+        },
+        {
+          "taskId": "IT Task 36",
+          "duration": 9,
+          "level": 1,
+          "day": 20
+        },
+        {
+          "taskId": "IT Task 37",
+          "duration": 9,
+          "level": 1,
+          "day": 21
+        },
+        {
+          "taskId": "IT Task 37",
+          "duration": 1,
+          "level": 1,
+          "day": 22
+        },
+        {
+          "taskId": "IT Task 35",
+          "duration": 8,
+          "level": 1,
+          "day": 22
+        },
+        {
+          "taskId": "IT Task 35",
+          "duration": 2,
+          "level": 1,
+          "day": 23
+        },
+        {
+          "taskId": "IT Task 28",
+          "duration": 4,
+          "level": 1,
+          "day": 23
+        },
+        {
+          "taskId": "IT Task 21",
+          "duration": 3,
+          "level": 1,
+          "day": 23
+        },
+        {
+          "taskId": "IT Task 21",
+          "duration": 2,
+          "level": 1,
+          "day": 24
+        },
+        {
+          "taskId": "IT Task 14",
+          "duration": 7,
+          "level": 1,
+          "day": 24
+        },
+        {
+          "taskId": "IT Task 14",
+          "duration": 4,
+          "level": 1,
+          "day": 25
+        },
+        {
+          "taskId": "IT Task 11",
+          "duration": 5,
+          "level": 1,
+          "day": 25
+        },
+        {
+          "taskId": "IT Task 11",
+          "duration": 1,
+          "level": 1,
+          "day": 26
+        },
+        {
+          "taskId": "IT Task 9",
+          "duration": 6,
+          "level": 1,
+          "day": 26
+        },
+        {
+          "taskId": "IT Task 6",
+          "duration": 2,
+          "level": 1,
+          "day": 26
+        },
+        {
+          "taskId": "IT Task 6",
+          "duration": 2,
+          "level": 1,
+          "day": 27
+        },
+        {
+          "taskId": "IT Task 5",
+          "duration": 7,
+          "level": 1,
+          "day": 27
+        },
+        {
+          "taskId": "IT Task 5",
+          "duration": 5,
+          "level": 1,
+          "day": 28
+        }
+      ]
+    },
+    {
+      "name": "Developer 2",
+      "level": 2,
+      "tasks": [
+        {
+          "taskId": "Business Task 60",
+          "duration": 9,
+          "level": 2,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 60",
+          "duration": 1,
+          "level": 2,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 58",
+          "duration": 4,
+          "level": 2,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 55",
+          "duration": 4,
+          "level": 2,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 55",
+          "duration": 7,
+          "level": 2,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 34",
+          "duration": 2,
+          "level": 2,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 34",
+          "duration": 7,
+          "level": 2,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 26",
+          "duration": 2,
+          "level": 2,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 26",
+          "duration": 9,
+          "level": 2,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 26",
+          "duration": 1,
+          "level": 2,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 22",
+          "duration": 5,
+          "level": 2,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 15",
+          "duration": 3,
+          "level": 2,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 15",
+          "duration": 9,
+          "level": 2,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 14",
+          "duration": 9,
+          "level": 2,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 14",
+          "duration": 1,
+          "level": 2,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 10",
+          "duration": 7,
+          "level": 2,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 7",
+          "duration": 1,
+          "level": 2,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 7",
+          "duration": 9,
+          "level": 2,
+          "day": 9
+        },
+        {
+          "taskId": "Business Task 7",
+          "duration": 1,
+          "level": 2,
+          "day": 10
+        },
+        {
+          "taskId": "Business Task 4",
+          "duration": 7,
+          "level": 2,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 65",
+          "duration": 1,
+          "level": 2,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 65",
+          "duration": 9,
+          "level": 2,
+          "day": 11
+        },
+        {
+          "taskId": "IT Task 65",
+          "duration": 1,
+          "level": 2,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 59",
+          "duration": 4,
+          "level": 2,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 57",
+          "duration": 4,
+          "level": 2,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 57",
+          "duration": 7,
+          "level": 2,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 40",
+          "duration": 2,
+          "level": 2,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 40",
+          "duration": 4,
+          "level": 2,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 33",
+          "duration": 5,
+          "level": 2,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 33",
+          "duration": 1,
+          "level": 2,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 32",
+          "duration": 5,
+          "level": 2,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 31",
+          "duration": 3,
+          "level": 2,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 31",
+          "duration": 2,
+          "level": 2,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 24",
+          "duration": 6,
+          "level": 2,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 23",
+          "duration": 1,
+          "level": 2,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 23",
+          "duration": 6,
+          "level": 2,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 18",
+          "duration": 3,
+          "level": 2,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 18",
+          "duration": 8,
+          "level": 2,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 10",
+          "duration": 1,
+          "level": 2,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 10",
+          "duration": 9,
+          "level": 2,
+          "day": 19
+        }
+      ]
+    },
+    {
+      "name": "Developer 3",
+      "level": 3,
+      "tasks": [
+        {
+          "taskId": "Business Task 65",
+          "duration": 9,
+          "level": 3,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 61",
+          "duration": 8,
+          "level": 3,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 57",
+          "duration": 1,
+          "level": 3,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 57",
+          "duration": 6,
+          "level": 3,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 52",
+          "duration": 3,
+          "level": 3,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 52",
+          "duration": 4,
+          "level": 3,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 33",
+          "duration": 5,
+          "level": 3,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 33",
+          "duration": 4,
+          "level": 3,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 27",
+          "duration": 5,
+          "level": 3,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 27",
+          "duration": 4,
+          "level": 3,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 25",
+          "duration": 5,
+          "level": 3,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 25",
+          "duration": 4,
+          "level": 3,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 16",
+          "duration": 5,
+          "level": 3,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 16",
+          "duration": 4,
+          "level": 3,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 12",
+          "duration": 5,
+          "level": 3,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 12",
+          "duration": 5,
+          "level": 3,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 1",
+          "duration": 4,
+          "level": 3,
+          "day": 8
+        },
+        {
+          "taskId": "IT Task 66",
+          "duration": 9,
+          "level": 3,
+          "day": 9
+        },
+        {
+          "taskId": "IT Task 66",
+          "duration": 1,
+          "level": 3,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 63",
+          "duration": 3,
+          "level": 3,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 60",
+          "duration": 4,
+          "level": 3,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 56",
+          "duration": 1,
+          "level": 3,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 56",
+          "duration": 9,
+          "level": 3,
+          "day": 11
+        },
+        {
+          "taskId": "IT Task 53",
+          "duration": 3,
+          "level": 3,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 46",
+          "duration": 3,
+          "level": 3,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 43",
+          "duration": 3,
+          "level": 3,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 43",
+          "duration": 7,
+          "level": 3,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 41",
+          "duration": 2,
+          "level": 3,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 41",
+          "duration": 6,
+          "level": 3,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 25",
+          "duration": 3,
+          "level": 3,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 25",
+          "duration": 6,
+          "level": 3,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 20",
+          "duration": 3,
+          "level": 3,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 20",
+          "duration": 8,
+          "level": 3,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 19",
+          "duration": 1,
+          "level": 3,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 19",
+          "duration": 7,
+          "level": 3,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 17",
+          "duration": 2,
+          "level": 3,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 17",
+          "duration": 9,
+          "level": 3,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 8",
+          "duration": 8,
+          "level": 3,
+          "day": 19
+        },
+        {
+          "taskId": "IT Task 4",
+          "duration": 1,
+          "level": 3,
+          "day": 19
+        },
+        {
+          "taskId": "IT Task 4",
+          "duration": 4,
+          "level": 3,
+          "day": 20
+        },
+        {
+          "taskId": "IT Task 2",
+          "duration": 5,
+          "level": 3,
+          "day": 20
+        },
+        {
+          "taskId": "IT Task 2",
+          "duration": 5,
+          "level": 3,
+          "day": 21
+        },
+        {
+          "taskId": "IT Task 0",
+          "duration": 4,
+          "level": 3,
+          "day": 21
+        },
+        {
+          "taskId": "IT Task 0",
+          "duration": 2,
+          "level": 3,
+          "day": 22
+        }
+      ]
+    },
+    {
+      "name": "Developer 4",
+      "level": 4,
+      "tasks": [
+        {
+          "taskId": "Business Task 64",
+          "duration": 5,
+          "level": 4,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 63",
+          "duration": 4,
+          "level": 4,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 63",
+          "duration": 7,
+          "level": 4,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 59",
+          "duration": 2,
+          "level": 4,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 59",
+          "duration": 7,
+          "level": 4,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 56",
+          "duration": 2,
+          "level": 4,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 56",
+          "duration": 7,
+          "level": 4,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 54",
+          "duration": 2,
+          "level": 4,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 54",
+          "duration": 8,
+          "level": 4,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 37",
+          "duration": 1,
+          "level": 4,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 37",
+          "duration": 4,
+          "level": 4,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 32",
+          "duration": 5,
+          "level": 4,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 32",
+          "duration": 2,
+          "level": 4,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 30",
+          "duration": 4,
+          "level": 4,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 29",
+          "duration": 3,
+          "level": 4,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 29",
+          "duration": 1,
+          "level": 4,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 21",
+          "duration": 4,
+          "level": 4,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 19",
+          "duration": 4,
+          "level": 4,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 17",
+          "duration": 9,
+          "level": 4,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 11",
+          "duration": 3,
+          "level": 4,
+          "day": 9
+        },
+        {
+          "taskId": "Business Task 8",
+          "duration": 6,
+          "level": 4,
+          "day": 9
+        },
+        {
+          "taskId": "Business Task 8",
+          "duration": 6,
+          "level": 4,
+          "day": 10
+        },
+        {
+          "taskId": "Business Task 6",
+          "duration": 3,
+          "level": 4,
+          "day": 10
+        },
+        {
+          "taskId": "Business Task 6",
+          "duration": 2,
+          "level": 4,
+          "day": 11
+        },
+        {
+          "taskId": "IT Task 64",
+          "duration": 7,
+          "level": 4,
+          "day": 11
+        },
+        {
+          "taskId": "IT Task 64",
+          "duration": 5,
+          "level": 4,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 55",
+          "duration": 4,
+          "level": 4,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 55",
+          "duration": 8,
+          "level": 4,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 54",
+          "duration": 1,
+          "level": 4,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 54",
+          "duration": 9,
+          "level": 4,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 52",
+          "duration": 8,
+          "level": 4,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 47",
+          "duration": 1,
+          "level": 4,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 47",
+          "duration": 3,
+          "level": 4,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 39",
+          "duration": 6,
+          "level": 4,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 39",
+          "duration": 6,
+          "level": 4,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 29",
+          "duration": 3,
+          "level": 4,
+          "day": 17
+        },
+        {
+          "taskId": "IT Task 29",
+          "duration": 2,
+          "level": 4,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 27",
+          "duration": 7,
+          "level": 4,
+          "day": 18
+        },
+        {
+          "taskId": "IT Task 26",
+          "duration": 6,
+          "level": 4,
+          "day": 19
+        },
+        {
+          "taskId": "IT Task 22",
+          "duration": 3,
+          "level": 4,
+          "day": 19
+        },
+        {
+          "taskId": "IT Task 22",
+          "duration": 2,
+          "level": 4,
+          "day": 20
+        },
+        {
+          "taskId": "IT Task 15",
+          "duration": 6,
+          "level": 4,
+          "day": 20
+        },
+        {
+          "taskId": "IT Task 12",
+          "duration": 1,
+          "level": 4,
+          "day": 20
+        },
+        {
+          "taskId": "IT Task 12",
+          "duration": 9,
+          "level": 4,
+          "day": 21
+        },
+        {
+          "taskId": "IT Task 12",
+          "duration": 1,
+          "level": 4,
+          "day": 22
+        },
+        {
+          "taskId": "IT Task 3",
+          "duration": 4,
+          "level": 4,
+          "day": 22
+        },
+        {
+          "taskId": "IT Task 1",
+          "duration": 4,
+          "level": 4,
+          "day": 22
+        },
+        {
+          "taskId": "IT Task 1",
+          "duration": 2,
+          "level": 4,
+          "day": 23
+        }
+      ]
+    },
+    {
+      "name": "Developer 5",
+      "level": 5,
+      "tasks": [
+        {
+          "taskId": "Business Task 50",
+          "duration": 9,
+          "level": 5,
+          "day": 0
+        },
+        {
+          "taskId": "Business Task 50",
+          "duration": 3,
+          "level": 5,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 49",
+          "duration": 6,
+          "level": 5,
+          "day": 1
+        },
+        {
+          "taskId": "Business Task 49",
+          "duration": 1,
+          "level": 5,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 45",
+          "duration": 8,
+          "level": 5,
+          "day": 2
+        },
+        {
+          "taskId": "Business Task 44",
+          "duration": 8,
+          "level": 5,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 42",
+          "duration": 1,
+          "level": 5,
+          "day": 3
+        },
+        {
+          "taskId": "Business Task 42",
+          "duration": 8,
+          "level": 5,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 39",
+          "duration": 1,
+          "level": 5,
+          "day": 4
+        },
+        {
+          "taskId": "Business Task 39",
+          "duration": 6,
+          "level": 5,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 36",
+          "duration": 3,
+          "level": 5,
+          "day": 5
+        },
+        {
+          "taskId": "Business Task 24",
+          "duration": 9,
+          "level": 5,
+          "day": 6
+        },
+        {
+          "taskId": "Business Task 24",
+          "duration": 3,
+          "level": 5,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 23",
+          "duration": 6,
+          "level": 5,
+          "day": 7
+        },
+        {
+          "taskId": "Business Task 23",
+          "duration": 3,
+          "level": 5,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 20",
+          "duration": 4,
+          "level": 5,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 5",
+          "duration": 2,
+          "level": 5,
+          "day": 8
+        },
+        {
+          "taskId": "Business Task 5",
+          "duration": 5,
+          "level": 5,
+          "day": 9
+        },
+        {
+          "taskId": "Business Task 3",
+          "duration": 4,
+          "level": 5,
+          "day": 9
+        },
+        {
+          "taskId": "IT Task 45",
+          "duration": 9,
+          "level": 5,
+          "day": 10
+        },
+        {
+          "taskId": "IT Task 44",
+          "duration": 8,
+          "level": 5,
+          "day": 11
+        },
+        {
+          "taskId": "IT Task 42",
+          "duration": 1,
+          "level": 5,
+          "day": 11
+        },
+        {
+          "taskId": "IT Task 42",
+          "duration": 9,
+          "level": 5,
+          "day": 12
+        },
+        {
+          "taskId": "IT Task 38",
+          "duration": 9,
+          "level": 5,
+          "day": 13
+        },
+        {
+          "taskId": "IT Task 38",
+          "duration": 3,
+          "level": 5,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 34",
+          "duration": 6,
+          "level": 5,
+          "day": 14
+        },
+        {
+          "taskId": "IT Task 30",
+          "duration": 9,
+          "level": 5,
+          "day": 15
+        },
+        {
+          "taskId": "IT Task 16",
+          "duration": 4,
+          "level": 5,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 13",
+          "duration": 3,
+          "level": 5,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 7",
+          "duration": 2,
+          "level": 5,
+          "day": 16
+        },
+        {
+          "taskId": "IT Task 7",
+          "duration": 4,
+          "level": 5,
+          "day": 17
+        }
+      ]
+    }
+  ]
+}

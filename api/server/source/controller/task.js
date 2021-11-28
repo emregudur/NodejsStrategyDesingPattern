@@ -32,7 +32,7 @@ export async function Get(req, res, next) {
           }
           if (data.duration > needHour) {
             levelTasks.push({...data, duration: data.duration - needHour }) // ihtiyaç fazlası tekrar listeye alınıyor
-            userTasks.push({...data, duration: needHour, maxDayCount}) // task user'a ekleniyor
+            userTasks.push({...data, duration: needHour, day}) // task user'a ekleniyor
             needHour = data.duration - needHour // günü tamamlamak için ihtiyaç olan task süresi hesaplanıyor
           } else if (data.duration < needHour) {
             // eğer gelen task süresi günü tamamlamak için gereken süreden düşük ise direk user tasklarına aktarılıyor
@@ -66,6 +66,14 @@ export async function Get(req, res, next) {
 }
 
 export async function AddProvider(req, res, next) {
-  let json = JSON.stringify({ 'test': true })
-  res.send(json)
+  const { providerName, api } = req.body
+  
+  let provider = new ProviderModel({providerName, api})
+  provider.save()
+  .then(json => {
+    res.status(200).send(json)
+  })
+  .catch(err => {
+    res.status(500).send(err)
+  })
 }

@@ -1,4 +1,4 @@
-# Nodejs Strategy Desing Pattern
+# Nodejs Strategy Design Pattern
 
 ## Installation
 
@@ -10,7 +10,7 @@ cd ./NodejsStrategyDesingPattern
 sh ./run
 ```
 
-## Fetch Tasks and Save With Strategy Desing Pattern
+## Fetch Tasks and Save With Strategy Design Pattern
 
 ```shell script
 node ./api/fetch-tasks.js
